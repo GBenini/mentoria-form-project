@@ -31,6 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Mentoria Form é uma pagina simples de formulário para agendar sua mentoria.
 
+Você pode visualizar o projeto através [DESSE LINK](https://gbenini.github.io/mentoria-form-project/) 👀
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/mmeZqQTafzHtNUjlvEtXhE/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)?type=design&node-id=0-1&mode=design&t=cTwimCTWIk0FtagC-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
